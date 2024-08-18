@@ -4,11 +4,11 @@ This repository contains Cypress tests for the Petstore API, which can be explor
 
 ## How to Run
 
-1. **Clone the repository:**
+1. **Clone the repository**
 ```bash
 https://github.com/tsaniaqurrota/petstore-api-test-cypress.git
 ```
-2. **Install npm and Cypress
+2. **Install npm and Cypress**
 ```bash
 npm install
 ```
