@@ -8,6 +8,9 @@ module.exports = defineConfig({
     },
     env: {
         username : "tsan27",
-        password : "12345"
+        password : "12345",
+        petName : "doggie",
+        status : "available",
+        petID : "9223372016900023000",
     }
 })
